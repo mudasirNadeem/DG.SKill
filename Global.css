@@ -145,4 +145,7 @@ width: 300px;
     .sm-flex-column{
         flex-direction: column;
     }
+    .sm-mt-2{
+        margin-top: 1rem !important;
+    }
 }
