@@ -142,4 +142,7 @@ width: 300px;
     .sm-ps-0{
         padding: 0 !important;
     }
+    .sm-flex-column{
+        flex-direction: column;
+    }
 }
